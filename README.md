@@ -12,4 +12,4 @@ That's not all about me, follow me on LinkedIn for more information.
 </div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' target="_blank" alt='github' height='40'>](https://github.com/cabralcaio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' target="_blank" height='40'>](https://www.linkedin.com/in/caiocabral1/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' target="_blank">](https://github.com/cabralcaio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/caiocabral1/)  
