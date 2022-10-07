@@ -3,7 +3,7 @@
 
 Skills: Angular / Java / JavaScript / HTML / CSS / Kotlin
 
-- 🔭 I’m currently working on this page. 
+🔭 I’m currently working on this page. 
 That's not all about me, follow me on LinkedIn for more information.
 
 <div>
