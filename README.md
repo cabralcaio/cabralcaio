@@ -8,7 +8,7 @@
 That's not all about me, follow me on LinkedIn for more information.
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cabralcaio&show_icons=true&theme=react&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cabralcaio&show_icons=true&theme=react"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabralcaio&layout=compact&langs_count=7&theme=react"/>
 </div>
 
